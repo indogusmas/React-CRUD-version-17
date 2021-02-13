@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Android Development",
+      "body": "Android lifechiclye",
+      "author": "gusmas",
+      "id": 1
+    }
+  ]
+}
